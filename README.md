@@ -27,3 +27,5 @@ Teacher said that the motivation to use this dependencies are:
 
 - **react-native-screens:** part of React Navigation to manipulate screens;
 - **react-native-safe-area-context**: to mantain the areas viewable.
+
+Then teacher selected 1 type of the navigation: stack.
