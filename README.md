@@ -18,3 +18,7 @@ Then you can install some dependencies as you can see in the [documentation](htt
 ```sh
 npx expo install react-native-screens react-native-safe-area-context
 ```
+
+This two steps you can see in this area of the documentation:
+
+![Reac native - installation](images/react-native--installation-instructions.png)
