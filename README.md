@@ -12,3 +12,5 @@ First, you need to create the project with this command
 ```sh
 npx create-expo-app aula-context
 ```
+
+Then you can install some dependencies as you can see in the [documentation](https://reactnavigation.org/docs/getting-started).
