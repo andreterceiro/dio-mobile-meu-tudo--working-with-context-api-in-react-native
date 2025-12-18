@@ -14,3 +14,7 @@ npx create-expo-app aula-context
 ```
 
 Then you can install some dependencies as you can see in the [documentation](https://reactnavigation.org/docs/getting-started).
+
+```sh
+npx expo install react-native-screens react-native-safe-area-context
+```
