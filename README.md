@@ -21,4 +21,8 @@ npx expo install react-native-screens react-native-safe-area-context
 
 This two steps you can see in this area of the documentation:
 
-![Reac native - installation](images/react-native--installation-instructions.png)
+![React Native - installation](images/react-native--installation-instructions.png)
+
+Teacher said that the motivation to use this dependencies are:
+
+- **react-native-safe-screens:** part of React Navigation to manipulate screens;
