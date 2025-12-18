@@ -29,3 +29,9 @@ Teacher said that the motivation to use this dependencies are:
 - **react-native-safe-area-context**: to mantain the areas viewable.
 
 Then teacher selected 1 type of the navigation: stack.
+
+The installation of the stack navigation was done with this command:
+
+```sh
+npm install @react-navigation/stack
+```
