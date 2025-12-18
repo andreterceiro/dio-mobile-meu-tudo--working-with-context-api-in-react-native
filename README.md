@@ -25,4 +25,5 @@ This two steps you can see in this area of the documentation:
 
 Teacher said that the motivation to use this dependencies are:
 
-- **react-native-safe-screens:** part of React Navigation to manipulate screens;
+- **react-native-screens:** part of React Navigation to manipulate screens;
+- **react-native-safe-area-context**: to mantain the areas viewable.
