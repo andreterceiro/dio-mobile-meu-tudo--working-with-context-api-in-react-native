@@ -46,6 +46,12 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 ```
 
+Teacher also used `createStackNavigator` this way:
+
+```
+const stack = createStackNavigator();
+```
+
 Then teacher the export in App.tsx to looks like:
 
 ```
@@ -58,4 +64,4 @@ export default function App() {
 }
 ```
 
-Teacher explained that &lt;NavigationContainer&gt; says that the area inside him is navigable and &lt;stack.Navigator&gt; is the navigator
+Teacher explained that &lt;NavigationContainer&gt; says that the area inside him is navigable and &lt;stack.Navigator&gt; is the navigator.
