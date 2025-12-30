@@ -8,6 +8,11 @@ import {createStackNavigator} from '@react-navigation/stack';
 
 const stack = createStackNavigator();
 
+export type rootStackParamList = {
+  Home: undefined,
+  User: {username: string} 
+}
+
 export default function App() {
   return (
     <NavigationContainer>
