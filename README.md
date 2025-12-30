@@ -65,3 +65,11 @@ export default function App() {
 ```
 
 Teacher explained that &lt;NavigationContainer&gt; says that the area inside him is navigable and &lt;stack.Navigator&gt; is the navigator.
+
+
+And inside of <stack.Navigator> teacher put the screens:
+
+```
+        <stack.Screen name="Home" component={HomeScreen} />
+        <stack.Screen name="User" component={UserScreen} />
+```
