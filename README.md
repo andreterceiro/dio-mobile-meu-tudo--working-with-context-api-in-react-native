@@ -45,3 +45,15 @@ Teacher did these two imports in App.tsx:
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 ```
+
+Then teacher the export in App.tsx to looks like:
+
+```
+export default function App() {
+  return (
+    <NavigationContainer>
+      <stack.Navigator></stack.Navigator>
+    </NavigationContainer>
+  );
+}
+```
