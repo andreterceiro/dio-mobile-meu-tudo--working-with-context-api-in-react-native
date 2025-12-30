@@ -6,12 +6,12 @@ import UserScreen from './src/screens/UserScreen';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 
-const stack = createStackNavigator();
-
 export type rootStackParamList = {
   Home: undefined,
   User: {username: string} 
 }
+
+const stack = createStackNavigator();
 
 export default function App() {
   return (
