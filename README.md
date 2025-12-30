@@ -57,3 +57,5 @@ export default function App() {
   );
 }
 ```
+
+Teacher explained that &lt;NavigationContainer&gt; says that the area inside him is navigable and &lt;stack.Navigator&gt; is the navigator
