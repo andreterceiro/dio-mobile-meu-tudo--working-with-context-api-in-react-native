@@ -77,3 +77,8 @@ And inside of <stack.Navigator> teacher put the screens:
 Teacher show an alternative way to code, making a direct extraction of Navigator and Screen when creating the constant.
 
 ![Alternative way](images/alternative-also-works-code.png)
+
+
+# Passing parameter between navigations
+
+Teacher told us that we have the necessity to pass a parameter from a screen to another.
