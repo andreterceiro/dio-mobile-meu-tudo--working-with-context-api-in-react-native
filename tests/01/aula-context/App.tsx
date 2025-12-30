@@ -11,7 +11,7 @@ export type rootStackParamList = {
   User: {username: string} 
 }
 
-const stack = createStackNavigator();
+const stack = createStackNavigator<rootStackParamList>();
 
 export default function App() {
   return (
