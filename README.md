@@ -35,3 +35,13 @@ The installation of the stack navigation was done with this command:
 ```sh
 npm install @react-navigation/stack
 ```
+
+
+# Configuring the navigation
+
+Teacher did these two imports in App.tsx:
+
+```
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
+```
