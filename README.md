@@ -93,3 +93,5 @@ The code **in App.tsx** to achive this was:
 Inside &lt;NavigationContaniner&gt;&lt;Stack.Navigator&gt; tags (these tags are in App.tsx file in the teacher example), the order of the screens is the order in the file, see this image:
 
 ![order of screens](images/order-of-screens.png)
+
+In other words, the first screen displayed will be UserScreen.
