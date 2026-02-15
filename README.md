@@ -86,3 +86,10 @@ Teacher told us that we have the necessity to pass a parameter from a screen to 
 The code **in App.tsx** to achive this was:
 
 ![App.tsx - passing parameters between screens](images/passing-parameters-between--screens--App-tsx.png)
+
+
+# Order of screens - observation
+
+Inside &lt;NavigationContaniner&gt;&lt;Stack.Navigator&gt; tags (these tags are in App.tsx file in the teacher example), the order of the screens is the order in the file, see this image:
+
+![order of screens](images/order-of-screens.png)
