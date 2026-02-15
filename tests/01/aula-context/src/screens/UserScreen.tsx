@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 export default function UserScreen() {
     return (
         <View>
-            <Text>Works!</Text>
+            <Text>User screen worked!</Text>
         </View>
     )
 }
