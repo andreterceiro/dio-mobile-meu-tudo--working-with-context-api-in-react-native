@@ -1,11 +1,9 @@
-import { View, Text, TextInput } from "react-native";
+import { View, Text} from "react-native";
 
 export default function UserScreen() {
     return (
         <View>
-            <TextInput
-                placeholder="Digite seu nome..."
-            />
+            <Text>User screen worked</Text>
         </View>
     )
 }
