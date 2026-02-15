@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet } from 'react-native';
 import HomeScreen from './src/screens/HomeScreen';
 import UserScreen from './src/screens/UserScreen';
 
